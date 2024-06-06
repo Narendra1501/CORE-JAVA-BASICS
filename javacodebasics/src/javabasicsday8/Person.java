@@ -5,22 +5,23 @@ public class Person {
     private int age;
     private String city;
 
-    // Default constructor
+    
     public Person() {}
 
-    // Parameterized constructor
+    
     public Person(String name, int age, String city) {
         this.name = name;
         this.age = age;
         this.city = city;
     }
 
-    // Getter and Setter methods
+    
     public String getName() {
         return name;
     }
 
     public void setName(String name) {
+    	
         this.name = name;
     }
 

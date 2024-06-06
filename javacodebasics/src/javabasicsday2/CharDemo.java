@@ -1,4 +1,4 @@
-package basicsjava2;
+package javabasicsday2;
 
 public class CharDemo {
 

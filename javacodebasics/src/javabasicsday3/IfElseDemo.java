@@ -1,4 +1,4 @@
-package javastatements;
+package javabasicsday3;
 
 public class IfElseDemo {
 

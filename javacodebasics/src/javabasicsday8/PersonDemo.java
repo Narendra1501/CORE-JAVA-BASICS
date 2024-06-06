@@ -15,7 +15,7 @@ public class PersonDemo {
         System.out.println("Enter Person details: Name, age, and city");
         name = sc.nextLine();
         age = sc.nextInt();
-        sc.nextLine(); // consume the newline
+        sc.nextLine();
         city = sc.nextLine();
         
         p1.setName(name);
@@ -26,7 +26,7 @@ public class PersonDemo {
         System.out.println("Enter Person details: Name, age, and city");
         name = sc.nextLine();
         age = sc.nextInt();
-        sc.nextLine(); // consume the newline
+        sc.nextLine(); 
         city = sc.nextLine();
         p1 = new Person(name, age, city); 
         System.out.println("Person Details: Name: " + p1.getName() + "\tAge: " + p1.getAge() + "\tCity: " + p1.getCity());

@@ -6,7 +6,7 @@ public class studentdemo {
 	{
 		student s=new student(114,"Narendra",987865676532L);
 		
-		student r=new student(115,"Kiruba",986666754775L);
+		student r=new student(115,"Minion",986666754775L);
 		
 		System.out.println(s);
 		System.out.println(r);

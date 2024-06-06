@@ -1,4 +1,4 @@
-package Constructor;
+package javabasicsday6;
 
 public class ConstructorDemo {
 

@@ -5,6 +5,7 @@ public class TryCatchExample {
 	static int performDivision(int x, int y) {
 		System.out.println("I am in method");
 		int z = 0;
+		
 		try {
 			System.out.println("I am in try block");
 			z = x / y;
